@@ -1,0 +1,3 @@
+[submodule "Mash1_TC"]
+	path = Mash1_TC
+	url = git@github.com:spkaabi/Mash1_TC.git
